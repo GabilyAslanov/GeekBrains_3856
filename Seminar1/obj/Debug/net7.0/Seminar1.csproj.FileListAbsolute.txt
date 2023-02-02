@@ -1,0 +1,15 @@
+C:\GIT\GeekBains\GeekBrains_3856\Seminar1\bin\Debug\net7.0\Seminar1.exe
+C:\GIT\GeekBains\GeekBrains_3856\Seminar1\bin\Debug\net7.0\Seminar1.deps.json
+C:\GIT\GeekBains\GeekBrains_3856\Seminar1\bin\Debug\net7.0\Seminar1.runtimeconfig.json
+C:\GIT\GeekBains\GeekBrains_3856\Seminar1\bin\Debug\net7.0\Seminar1.dll
+C:\GIT\GeekBains\GeekBrains_3856\Seminar1\bin\Debug\net7.0\Seminar1.pdb
+C:\GIT\GeekBains\GeekBrains_3856\Seminar1\obj\Debug\net7.0\Seminar1.csproj.AssemblyReference.cache
+C:\GIT\GeekBains\GeekBrains_3856\Seminar1\obj\Debug\net7.0\Seminar1.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\GeekBains\GeekBrains_3856\Seminar1\obj\Debug\net7.0\Seminar1.AssemblyInfoInputs.cache
+C:\GIT\GeekBains\GeekBrains_3856\Seminar1\obj\Debug\net7.0\Seminar1.AssemblyInfo.cs
+C:\GIT\GeekBains\GeekBrains_3856\Seminar1\obj\Debug\net7.0\Seminar1.csproj.CoreCompileInputs.cache
+C:\GIT\GeekBains\GeekBrains_3856\Seminar1\obj\Debug\net7.0\Seminar1.dll
+C:\GIT\GeekBains\GeekBrains_3856\Seminar1\obj\Debug\net7.0\refint\Seminar1.dll
+C:\GIT\GeekBains\GeekBrains_3856\Seminar1\obj\Debug\net7.0\Seminar1.pdb
+C:\GIT\GeekBains\GeekBrains_3856\Seminar1\obj\Debug\net7.0\Seminar1.genruntimeconfig.cache
+C:\GIT\GeekBains\GeekBrains_3856\Seminar1\obj\Debug\net7.0\ref\Seminar1.dll
