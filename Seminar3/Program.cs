@@ -23,3 +23,7 @@ else if (numX > 0 && numY < 0)
 {
     System.Console.WriteLine("4 section");
 }
+else
+{
+    System.Console.WriteLine("0 section");
+}
